@@ -1,3 +1,7 @@
+var sayMyName = function (name) {
+	alert('My Name is: ' +name);
+}
+
 var car = {
 		make: 'BMW',
 		type: 'Sport',
